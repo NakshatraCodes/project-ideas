@@ -25,3 +25,16 @@
 - [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
 - [Build a Todo List with Flask and RethinkDB](https://realpython.com/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
 
+## Medium
+
+- [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+- [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
+- [Build a Twitter Bot with Clojure](https://howistart.org/posts/clojure/1/index.html)
+- [Building a Spell-Checker](https://bernhardwenzel.com/articles/clojure-spellchecker/)
+- [Build a Simple HTTP Server with Java](http://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html)
+- [Build a Spring Boot App with User Authentication](https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication)
+- [Build an App in Pure JS](https://medium.com/codingthesmartway-com-blog/pure-javascript-building-a-real-world-application-from-scratch-5213591cfcd6)
+- [Create Serverless React.js Apps](https://serverless-stack.com/)
+- [Create a Trello Clone](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/ )
+- [Create a Character Voting App with React, Node, MongoDB and SocketIO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+- [React Tutorial: Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
