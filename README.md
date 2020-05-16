@@ -21,7 +21,6 @@
 - Create a Blog Web App In Django
 	- [Part 1](https://tutorial.djangogirls.org/en/)
 	- [Part 2](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
-- [Choose Your Own Adventure Presentations](https://www.twilio.com/blog/2015/03/choose-your-own-adventures-presentations-wizard-mode-part-1-of-3.html)
 - [Build a Todo List with Flask and RethinkDB](https://realpython.com/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
 
 ## Medium
