@@ -22,6 +22,7 @@
 	- [Part 1](https://tutorial.djangogirls.org/en/)
 	- [Part 2](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
 - [Build a Todo List with Flask and RethinkDB](https://realpython.com/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)
+- [Responsive Doodles With CSS](https://css-doodle.com/)
 
 ## Medium
 
