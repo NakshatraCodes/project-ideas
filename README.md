@@ -5,7 +5,6 @@
 - [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
 - [Build an Android Flashlight App (video)](https://www.youtube.com/watch?v=dhWL4DC7Krs)
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
-- [Build an HTML Calculator with JS](https://medium.freecodecamp.org/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98)
 - [Build a React Native Todo Application](https://egghead.io/courses/build-a-react-native-todo-application)
 - Write a Twitter Bot in Node.js
 	- [Part 1](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
