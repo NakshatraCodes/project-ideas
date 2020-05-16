@@ -17,7 +17,6 @@
 - [Scrape a Website with Scrapy and MongoDB](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
 - [How To Scrape With Python and Selenium WebDriver](http://www.byperth.com/2018/04/25/guide-web-scraping-101-what-you-need-to-know-and-how-to-scrape-with-python-selenium-webdriver/)
 - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
-- [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 - Create a Blog Web App In Django
 	- [Part 1](https://tutorial.djangogirls.org/en/)
 	- [Part 2](https://legacy.gitbook.com/book/djangogirls/django-girls-tutorial-extensions/details)
