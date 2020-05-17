@@ -25,6 +25,7 @@
 - [Build JS Games](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)
 - [Prettier](https://github.com/prettier/prettier/releases)
 - [Designing Animated Book Store With JavaScript, jQuery and CSS](https://medium.com/thebit/top-10-project-based-tutorials-for-learning-javascript-54c80de4f48c)
+- [Cat Clock](https://codepen.io/codifiedconcepts/pen/bwgxRq)
 
 ## Medium
 
