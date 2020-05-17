@@ -23,6 +23,7 @@
 - [Responsive Doodles With CSS](https://css-doodle.com/)
 - [Develop an upcoming skill with Deno](https://deno.land/v1)
 - [Build JS Games](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)
+- [Prettier](https://github.com/prettier/prettier/releases)
 
 ## Medium
 
